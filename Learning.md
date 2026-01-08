@@ -23,3 +23,9 @@
 9. Semantic HTML VS Non-Semantic HTML
  - semantic tag -header, footer, main,
  - Non Semantic tag -div, span
+ 10. text formating tags
+ 11. list
+ 12. link
+ 13. table
+ 14. From
+ 15. Deploy
