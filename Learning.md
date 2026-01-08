@@ -25,6 +25,7 @@
  - Non Semantic tag -div, span
  10. text formating tags
  11. list
+ - order list, unorder list, definition list,
  12. link
  13. table
  14. From
