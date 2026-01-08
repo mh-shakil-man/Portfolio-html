@@ -14,3 +14,12 @@
 -VS code extensions: Live server 
 6. Basic structure of HTML
  - Head and Body
+ 7. Basic Tages, Styling, Debugging
+  - Tag? types of tags
+  - element, content
+  - Debugging
+  - comment
+8. Headings, pragraphs, Line Braks, Horizontal rule
+9. Semantic HTML VS Non-Semantic HTML
+ - semantic tag -header, footer, main,
+ - Non Semantic tag -div, span
