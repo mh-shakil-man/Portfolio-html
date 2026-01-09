@@ -27,6 +27,8 @@
  11. list
  - order list, unorder list, definition list,
  12. link
+ - absolute link vs relative link
+ - a tag, attrubute: href, target, title
  13. table
  14. From
  15. Deploy
